@@ -22,7 +22,7 @@ Gaudeixo molt de treballar en projectes prometedors i que tinguin futur.
 **Pràctiques – Develokat**
 *Juliol 2025 – Actual*
 - Reparació d'equips informàtics
-- Gestió d'estoc i organització de magatzem
+- Gestió d'estoc i organització d'inventari
 - Configuració de dispositius
 
 **Voluntariat – Residència Sant Marc**  
