@@ -57,3 +57,4 @@ Gaudeixo molt de treballar en projectes prometedors i que tinguin futur.
 ## 💡 Què Valoro del Treball?
 M’agrada treballar en un espai tranquil de manera que pugui concentrar-me en la feina i donar el 100% de dedicació a l’objectiu.  
 A més, poder tenir una bona relació amb els meus companys de feina i tractar d’arribar junts al destí esperat.
+
