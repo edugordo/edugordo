@@ -19,6 +19,12 @@ Gaudeixo molt de treballar en projectes prometedors i que tinguin futur.
 
 ## 💼 Experiència Laboral
 
+**Pràctiques – Develokat**
+*Juliol 2025 – Actual*
+- Reparació d'equips informàtics
+- Gestió d'estoc i organització de magatzem
+- Configuració de dispositius
+
 **Voluntariat – Residència Sant Marc**  
 *Gener 2024 – Abril 2024*  
 - Entreteniment i ajuda a persones majors  
@@ -26,7 +32,7 @@ Gaudeixo molt de treballar en projectes prometedors i que tinguin futur.
 - Cuidador de persones grans  
 
 **Ajudant – Germans Grau S.L.**  
-*Juny 2024 – Actual*  
+*Juny 2024 – Juliol 2025*  
 - Distribuidor a domicili  
 - Organitzador i elaborador de comandes  
 - Distribució de productes  
