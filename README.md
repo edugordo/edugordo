@@ -1,60 +1,99 @@
-# EDUARD GORDO  
-**Estudiant de FP**
+<h1 align="center">👨‍💻 Eduard Gordo Cebrià</h1>
+
+<p align="center">
+  📍 Mataró (Barcelona) · 📞 +34 658825803 · ✉️ eduard.gordocebria@gmail.com  
+</p>
+
+<p align="center">
+  <a href="https://github.com/edugordo">🔗 GitHub</a>
+</p>
 
 ---
 
-## 📌 Contacto
-- 📞 +34 658825803  
-- 📧 eduard.gordocebria@gmail.com  
-- 📍 Mataró - Barcelona - 08301  
+## 🧑‍💻 Sobre mi
+
+> Professional motivat i compromès amb l’aprenentatge continu, amb capacitat per aplicar de manera efectiva els coneixements adquirits.  
+> Em caracteritzo per una bona organització, responsabilitat i habilitat per treballar de manera eficient tant sota pressió com en entorns de treball estructurats.  
+> Busco formar part de projectes amb projecció de futur on pugui aportar valor i continuar desenvolupant-me professionalment.
 
 ---
 
-## 👤 Sobre mí
-Considero que soc una persona amb ganes de treballar i amb ganes d’aprendre i demostrar tot el que he après fins ara.  
-També, treballo bé amb i sense pressió i soc una persona força organitzada a l’hora de treballar.  
-Gaudeixo molt de treballar en projectes prometedors i que tinguin futur.
+## 🎓 Dades Acadèmiques
+
+**💻 Cicle formatiu grau mitjà - Sistemes Microinformàtics i Xarxes**  
+Escola Pia Santa Anna  
+📅 Setembre 2024 - Juny 2026  
+
+**📘 Estudis Secundaris Obligatoris**  
+Escola Pia Santa Anna  
+📅 Setembre 2020 - Juny 2024  
+
+**🩺 Títol Suport Vital Bàsic**  
+Escola Pia Santa Anna  
+📅 Setembre 2020 - Juny 2024  
 
 ---
 
-## 💼 Experiència Laboral
+## 🌍 Idiomes
 
-**Pràctiques – Develokat**
-*Juliol 2025 – Actual*
-- Reparació d'equips informàtics
-- Gestió d'estoc i organització d'inventari
-- Configuració de dispositius
+- Català i Castellà → 🟢 Natiu  
+- Anglès → 🟢 Nivell Alt  
 
-**Voluntariat – Residència Sant Marc**  
-*Gener 2024 – Abril 2024*  
-- Entreteniment i ajuda a persones majors  
-- Elaborador i planificador d’activitats  
-- Cuidador de persones grans  
+---
 
-**Ajudant – Germans Grau S.L.**  
-*Juny 2024 – Juliol 2025*  
-- Distribuidor a domicili  
+## ⚡ Competències Personals
+
+- ✔ Organització  
+- ✔ Gestió de temps  
+- ✔ Responsabilitat i compromis  
+- ✔ Capacitat d’aprenentatge  
+- ✔ Treball en equip  
+- ✔ Autonomia en tasques  
+
+---
+
+## 🕒 Disponibilitat
+
+- Tardes  
+- Caps de Setmana  
+
+---
+
+## 💼 Experiència laboral
+
+### 🏢 Germans Grau S.L.
+📅 Juny 2024 - Actual  
+
+- Distribuïdor a Domicili  
 - Organitzador i elaborador de comandes  
 - Distribució de productes  
 
 ---
 
-## 📚 Dades Acadèmiques
-- **Sistemes Microinformàtics i Xarxes**  
-  *Escola Pia Santa Anna | Actual*  
+## 🤝 Voluntariat
 
-- **Estudis Secundaris Obligatòris**  
-  *Escola Pia Santa Anna | Setembre 2020 – Juny 2024*  
+### 🏥 Residència Sant Marc  
+📅 Gener 2024 - Abril 2024  
 
----
-
-## 🌐 Idiomes
-- Català i Castellà → Natiu  
-- Anglès → Nivell Alt  
+- Suport i acompanyament a persones grans en activitats diàries  
+- Organització i planificació d’activitats lúdiques i socials  
+- Assistència en tasques bàsiques de cura i atenció personal  
 
 ---
 
-## 💡 Què Valoro del Treball?
-M’agrada treballar en un espai tranquil de manera que pugui concentrar-me en la feina i donar el 100% de dedicació a l’objectiu.  
-A més, poder tenir una bona relació amb els meus companys de feina i tractar d’arribar junts al destí esperat.
+## 🛠️ Tècnic informàtic de pràctiques
 
+### 💻 DEVELOKAT S.L.  
+📅 Juliol 2025 - Febrer 2026  
+
+- Suport tècnic en la configuració i manteniment d’equips informàtics  
+- Assistència a usuaris en incidències de maquinari i programari  
+- Col·laboració en tasques de gestió i manteniment de sistemes i xarxes  
+
+---
+
+<p align="center">
+  ⭐ Gràcies per visitar el meu perfil
+</p>
+
+--- 
