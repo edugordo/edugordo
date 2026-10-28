@@ -2,14 +2,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123C69,100:00D4FF&height=220&section=header&text=Eduard%20Gordo&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Ciberseguridad%20%7C%20Administraci%C3%B3n%20de%20Sistemas%20%7C%20Redes&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Cabecera"/>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&height=55&lines=Estudiante+de+Ciberseguridad;Administraci%C3%B3n+de+Sistemas;Redes+y+Servidores;Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Especialidades animadas"/>
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&height=55&lines=Estudiante+de+Ciberseguridad;Administraci%C3%B3n+de+Sistemas;Redes+y+Servidores;Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Especialidades animadas"/>
+
+<br/><br/>
+
+<a href="https://github.com/edugordo">
+<img src="https://img.shields.io/badge/GitHub-edugordo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/edugordo?tab=repositories">
+<img src="https://img.shields.io/badge/Proyectos-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="Proyectos"/>
+</a>
+
+<br/><br/>
 
 📍 Mataró, Barcelona · Cataluña, España
-
-[![GitHub](https://img.shields.io/badge/GitHub-edugordo-181717?style=for-the-badge&logo=github)](https://github.com/edugordo)
-[![Repositorios](https://img.shields.io/badge/Mis_proyectos-00D4FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/edugordo?tab=repositories)
 
 </div>
 
@@ -21,15 +29,15 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=Explorando+el+mundo+de+la+tecnolog%C3%ADa;Aprendiendo+mediante+proyectos+pr%C3%A1cticos;Construyendo+mi+futuro+en+IT" alt="Sobre mí animado"/>
 
-<br/>
+</div>
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="50%">
 
 ### 🔐 Ciberseguridad
 
-Me interesa la seguridad informática, el análisis de amenazas y el aprendizaje de técnicas para proteger sistemas y redes.
+Me interesa la seguridad informática, el análisis de amenazas y la protección de sistemas y redes.
 
 </td>
 <td align="center" width="50%">
@@ -58,7 +66,7 @@ Desarrollo mis conocimientos mediante prácticas, proyectos académicos y la exp
 </tr>
 </table>
 
-<br/>
+<div align="center">
 
 <img src="https://img.shields.io/badge/ACTITUD-Aprendizaje_continuo-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="Aprendizaje continuo"/>
 <img src="https://img.shields.io/badge/ENFOQUE-Práctica_y_desarrollo-123C69?style=for-the-badge&logo=linux&logoColor=white" alt="Enfoque práctico"/>
@@ -66,7 +74,7 @@ Desarrollo mis conocimientos mediante prácticas, proyectos académicos y la exp
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:123C69,100:00D4FF&height=3&section=header" width="75%" alt="Separador"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:123C69,100:00D4FF&height=3&section=header" width="75%" alt="Separador"/>
 </div>
 
 <div align="center">
@@ -75,7 +83,7 @@ Desarrollo mis conocimientos mediante prácticas, proyectos académicos y la exp
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=Mi+camino+en+la+inform%C3%A1tica;De+los+fundamentos+a+la+ciberseguridad;Aprendizaje+continuo+y+experiencia+pr%C3%A1ctica" alt="Formación animada"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/01-FUNDAMENTOS-123C69?style=for-the-badge" alt="Fundamentos"/>
 &nbsp;➜&nbsp;
@@ -83,16 +91,16 @@ Desarrollo mis conocimientos mediante prácticas, proyectos académicos y la exp
 &nbsp;➜&nbsp;
 <img src="https://img.shields.io/badge/03-CIBERSEGURIDAD-00D4FF?style=for-the-badge" alt="Ciberseguridad"/>
 
-</div>
+<br/><br/>
 
-<table>
+<table align="center">
 <tr>
-<td align="center" width="75">
+<td align="center" width="150">
 
-<img src="https://img.shields.io/badge/01-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Formación 1"/>
+<img src="./images/centre-estudis-logo.png" width="110" alt="Centre d'Estudis Politècnics"/>
 
 </td>
-<td width="65%">
+<td align="left">
 
 ### 🛡️ CFGS Ciberseguridad y Administración de Sistemas
 
@@ -101,7 +109,7 @@ Desarrollo mis conocimientos mediante prácticas, proyectos académicos y la exp
 Formación especializada en ciberseguridad y administración de sistemas.
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="120">
 
 <img src="https://img.shields.io/badge/EN_CURSO-00B894?style=flat-square" alt="En curso"/>
 
@@ -110,10 +118,10 @@ Formación especializada en ciberseguridad y administración de sistemas.
 <tr>
 <td align="center">
 
-<img src="https://img.shields.io/badge/02-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Formación 2"/>
+<img src="./images/escola-pia-logo.png" width="110" alt="Escola Pia Santa Anna"/>
 
 </td>
-<td>
+<td align="left">
 
 ### 💻 CFGM Sistemas Microinformáticos y Redes
 
@@ -135,10 +143,10 @@ Formación en sistemas informáticos, redes y soporte técnico.
 <tr>
 <td align="center">
 
-<img src="https://img.shields.io/badge/03-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Formación 3"/>
+<img src="./images/escola-pia-logo.png" width="110" alt="Escola Pia Santa Anna"/>
 
 </td>
-<td>
+<td align="left">
 
 ### 📚 Educación Secundaria Obligatoria (ESO)
 
@@ -160,10 +168,10 @@ Estudios de educación secundaria completados.
 <tr>
 <td align="center">
 
-<img src="https://img.shields.io/badge/04-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Formación 4"/>
+<img src="./images/escola-pia-logo.png" width="110" alt="Escola Pia Santa Anna"/>
 
 </td>
-<td>
+<td align="left">
 
 ### ❤️ Soporte Vital Básico
 
@@ -180,35 +188,106 @@ Conocimientos básicos para actuar ante situaciones de emergencia.
 </tr>
 </table>
 
-<div align="center">
+<br/>
 
 <sub>📈 Formación continua · 💻 Práctica técnica · 🔐 Especialización</sub>
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:123C69,100:00D4FF&height=3&section=header" width="75%" alt="Separador"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:123C69,100:00D4FF&height=3&section=header" width="75%" alt="Separador"/>
 </div>
 
 <div align="center">
 
 ## 💼 Experiencia profesional
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=Experiencia+en+entornos+reales;Aprendiendo+del+trabajo+en+equipo;Desarrollando+habilidades+profesionales" alt="Experiencia animada"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=Experiencia+en+entornos+reales;Desarrollando+habilidades+profesionales;Aprendiendo+y+creciendo+cada+d%C3%ADa" alt="Experiencia animada"/>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="75" align="center">
+
+<img src="https://img.shields.io/badge/01-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Experiencia 1"/>
+
+</td>
+<td align="left">
+
+### 💻 Técnico informático en prácticas
+
+**DEVELOKAT S.L.**
+
+<sub>📅 Julio de 2025 – febrero de 2026</sub>
+
+Experiencia en un entorno profesional relacionado con la informática y el soporte técnico.
+
+</td>
+<td align="center" width="100">
+
+<img src="https://img.shields.io/badge/IT-123C69?style=for-the-badge&logo=windows&logoColor=white" alt="Informática"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/02-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Experiencia 2"/>
+
+</td>
+<td align="left">
+
+### 🚚 Ayudante a tiempo parcial y distribuidor a domicilio
+
+**Germans Grau S.L.**
+
+<sub>📅 Junio de 2024 – actualidad</sub>
+
+Desarrollo de la responsabilidad, la organización, la autonomía y el trato con los clientes.
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/LOGÍSTICA-123C69?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Logística"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/03-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Experiencia 3"/>
+
+</td>
+<td align="left">
+
+### 🤝 Voluntariado
+
+**Residència Sant Marc**
+
+<sub>📅 Enero – abril de 2024</sub>
+
+Experiencia de colaboración, compromiso y apoyo en un entorno social.
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/VOLUNTARIADO-123C69?style=for-the-badge&logo=heart&logoColor=white" alt="Voluntariado"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/RESPONSABILIDAD-123C69?style=flat-square" alt="Responsabilidad"/>
+<img src="https://img.shields.io/badge/TRABAJO_EN_EQUIPO-123C69?style=flat-square" alt="Trabajo en equipo"/>
+<img src="https://img.shields.io/badge/APRENDIZAJE-123C69?style=flat-square" alt="Aprendizaje"/>
 
 </div>
 
-- **Técnico informático en prácticas — DEVELOKAT S.L.**  
-  Julio de 2025 – febrero de 2026.
-
-- **Ayudante a tiempo parcial y distribuidor a domicilio — Germans Grau S.L.**  
-  Junio de 2024 – actualidad.
-
-- **Voluntariado — Residència Sant Marc**  
-  Enero – abril de 2024.
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:123C69,100:00D4FF&height=3&section=header" width="75%" alt="Separador"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:123C69,100:00D4FF&height=3&section=header" width="75%" alt="Separador"/>
 </div>
 
 <div align="center">
@@ -217,29 +296,29 @@ Conocimientos básicos para actuar ante situaciones de emergencia.
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=Linux+y+Windows;Redes+y+servidores;Herramientas+de+desarrollo;Sistemas+y+ciberseguridad" alt="Tecnologías animadas"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=linux,windows,bash,html,css,git,github,vscode&theme=dark" alt="Tecnologías"/>
 
 <br/><br/>
 
-`Ciberseguridad` · `Redes` · `Servidores` · `Linux` · `Windows` · `Virtualización` · `Desarrollo web`
+<code>Ciberseguridad</code> · <code>Redes</code> · <code>Servidores</code> · <code>Linux</code> · <code>Windows</code> · <code>Virtualización</code> · <code>Desarrollo web</code>
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:123C69,100:00D4FF&height=3&section=header" width="75%" alt="Separador"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:123C69,100:00D4FF&height=3&section=header" width="75%" alt="Separador"/>
 </div>
 
 <div align="center">
 
 ## 🚀 Mis proyectos destacados
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=Proyectos+reales+y+acad%C3%A9micos;Aprendizaje+mediante+la+pr%C3%A1ctica;Ideas+convertidas+en+proyectos" alt="Proyectos animados"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=Proyectos+acad%C3%A9micos+y+t%C3%A9cnicos;Aprendizaje+mediante+la+pr%C3%A1ctica;Ideas+convertidas+en+proyectos" alt="Proyectos animados"/>
 
 <br/>
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="33%">
 
@@ -303,27 +382,33 @@ Proyecto que conecta el ámbito empresarial con la tecnología.
 
 <br/>
 
-[![Ver todos los repositorios](https://img.shields.io/badge/VER_TODOS_MIS_PROYECTOS-00D4FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/edugordo?tab=repositories)
+<a href="https://github.com/edugordo?tab=repositories">
+<img src="https://img.shields.io/badge/VER_TODOS_MIS_PROYECTOS-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="Todos mis proyectos"/>
+</a>
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:123C69,100:00D4FF&height=3&section=header" width="75%" alt="Separador"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:123C69,100:00D4FF&height=3&section=header" width="75%" alt="Separador"/>
 </div>
 
 <div align="center">
 
 ## 🌍 Idiomas
 
-🇪🇸 Castellano · 🏴 Catalán · 🇬🇧 Inglés
+🇪🇸 Castellano · Català · 🇬🇧 English
 
 <br/>
 
 ## 🤝 Aptitudes
 
-Organización · Responsabilidad · Trabajo en equipo · Autonomía · Aprendizaje continuo
+<img src="https://img.shields.io/badge/Organización-123C69?style=flat-square" alt="Organización"/>
+<img src="https://img.shields.io/badge/Responsabilidad-123C69?style=flat-square" alt="Responsabilidad"/>
+<img src="https://img.shields.io/badge/Trabajo_en_equipo-123C69?style=flat-square" alt="Trabajo en equipo"/>
+<img src="https://img.shields.io/badge/Autonomía-123C69?style=flat-square" alt="Autonomía"/>
+<img src="https://img.shields.io/badge/Aprendizaje_continuo-123C69?style=flat-square" alt="Aprendizaje continuo"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=40&lines=Siempre+aprendiendo;Siempre+mejorando;Siempre+construyendo" alt="Aptitudes animadas"/>
 
@@ -331,9 +416,30 @@ Organización · Responsabilidad · Trabajo en equipo · Autonomía · Aprendiza
 
 ## 📫 Contacto
 
-📧 [eduard.gordocebria@gmail.com](mailto:eduard.gordocebria@gmail.com)
+<p>
+<a href="mailto:eduard.gordocebria@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Contactar_por_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contactar por email"/>
+</a>
+</p>
 
-💻 [github.com/edugordo](https://github.com/edugordo)
+<p>
+<strong>📧 Correo electrónico</strong><br/>
+<a href="mailto:eduard.gordocebria@gmail.com">eduard.gordocebria@gmail.com</a>
+</p>
+
+<p>
+<strong>📱 Teléfono</strong><br/>
+<a href="tel:+34658825803">+34 658 825 803</a>
+</p>
+
+<p>
+<a href="https://github.com/edugordo">
+<img src="https://img.shields.io/badge/GITHUB-Visita_mi_perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visita mi GitHub"/>
+</a>
+<a href="https://github.com/edugordo?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIOS-Explora_mis_proyectos-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="Explorar repositorios"/>
+</a>
+</p>
 
 <br/>
 
