@@ -97,7 +97,7 @@ Desarrollo mis conocimientos mediante prácticas, proyectos académicos y la exp
 <tr>
 <td align="center" width="150">
 
-<img src="./images/centre-estudis-logo.png" width="110" alt="Centre d'Estudis Politècnics"/>
+<img src="./images/images-removebg-preview.png" width="110" alt="Centre d'Estudis Politècnics"/>
 
 </td>
 <td align="left">
